@@ -24,7 +24,6 @@ Hi, I am Emine Metin. I am a computer engineer. I am currently interested in Php
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="40" height="40" align="left"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="left"/>
 <img align="left" alt="Visual Studio Code" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
- 
- 
+  
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=eminemtnn27" alt="eminemtnn27" /> </p>
 
