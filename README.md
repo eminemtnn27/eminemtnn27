@@ -3,7 +3,7 @@
 <!--
 **eminemtnn27/eminemtnn27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi, I am Emine Metin. I am a computer engineer. I am currently interested in Php-Laravel and am ready to take responsibility and try to learn new technologies. I am working to improve myself and my knowledge in these areas.
+Hi, I am Emine Metin. I am computer engineer. I am currently interested in Php-Laravel and am ready to take responsibility and try to learn new technologies. I am working to improve myself and my knowledge in these areas.
 
 <p align="center"><img  src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"  > </p>
 
