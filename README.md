@@ -8,8 +8,8 @@ Hi, I am Emine Metin. I am computer engineer. I am currently interested in Php-L
 <p align="center"><img  src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"  > </p>
 
 - 🔭 I’m currently working on ...Laravel
-- 🌱 I’m currently learning ...Laravel,PHP
-- 👯 I’m looking to collaborate on ...Laravel,PHP
+- 🌱 I’m currently learning ...Laravel
+- 👯 I’m looking to collaborate on ...Laravel
 - 📫 Email Address=  **eminemetin9@gmail.com**
 <p align="left">
 <a href="https://www.linkedin.com/in/emine-metin-b1a88a115/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/emine-metin-b1a88a115/" height="30" width="30" /></a>
