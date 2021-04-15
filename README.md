@@ -12,7 +12,7 @@ Hi, I am Emine Metin. I am computer engineer. I am currently interested in Php-L
 - 👯 I’m looking to collaborate on ...Laravel
 - 📫 Email Address=  **eminemetin9@gmail.com**
  
- <a href="https://www.linkedin.com/in/emine-metin-b1a88a115"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"  width="40" height="40" title="LinkedIn" /></a>
+ <p><a href="https://www.linkedin.com/in/emine-metin-b1a88a115"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"  width="40" height="40" title="LinkedIn" /></a></p>
  
 <p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=eminemtnn27&show_icons=true&theme=gruvbox" width="600" /></p>
  </p>
