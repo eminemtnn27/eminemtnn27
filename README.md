@@ -11,8 +11,7 @@ Hi, I am Emine Metin. I am computer engineer. I am currently interested in Php-L
 - 🌱 I’m currently learning ...Laravel,Js
 - 👯 I’m looking to collaborate on ...Laravel
 - 📫 Email Address=  **eminemetin9@gmail.com**
-<p align="left">
-<a href="https://www.linkedin.com/in/emine-metin-b1a88a115/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/emine-metin-b1a88a115/" height="30" width="30" /></a>
+<p align="left"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/emine-metin-b1a88a115/" height="30" width="30" />
 <p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=eminemtnn27&show_icons=true&theme=gruvbox" width="600" /></p>
  </p>
 
