@@ -7,8 +7,8 @@ Hi, I am Emine Metin. I am computer engineer. I am currently interested in Php-L
 
 <p align="center"><img  src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"  > </p>
 
-- 🔭 I’m currently working on ...Laravel
-- 🌱 I’m currently learning ...Laravel,dotnet core
+- 🔭 I’m currently working on ...Laravel,Dotnet core
+- 🌱 I’m currently learning ... Dotnet core
 - 👯 I’m looking to collaborate on ...Laravel
 - 📫 Email Address=  **eminemetin9@gmail.com**
  
@@ -25,6 +25,6 @@ Hi, I am Emine Metin. I am computer engineer. I am currently interested in Php-L
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="40" height="40" align="left"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="left"/>
 <img align="left" alt="Visual Studio Code" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  
+  <img   alt="postgresql" width="56px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" align="left" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=eminemtnn27" alt="eminemtnn27" /> </p>
 
