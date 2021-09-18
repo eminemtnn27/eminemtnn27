@@ -19,8 +19,7 @@ Hi, I am Emine Metin. I am computer engineer. I am currently interested in Php-L
 
 ### Language and tools used
 <img   alt="HTML5" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" />
-<img   alt="CSS3" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" />
-<img   alt="GitHub" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Git-icon-black.svg/1200px-Git-icon-black.svg.png" align="left" />
+<img   alt="CSS3" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" /> 
 <img  alt="SQL" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" align="left"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="40" height="40" align="left"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="left"/>
