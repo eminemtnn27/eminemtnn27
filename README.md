@@ -7,9 +7,9 @@ Hi, I am Emine Metin. I am computer engineer. I am currently interested in Php-L
 
 <p align="center"><img  src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"  > </p>
 
-- 🔭 I’m currently working on ...Laravel,Dotnet core
+- 🔭 I’m currently working on ...Dotnet core
 - 🌱 I’m currently learning ... Dotnet core
-- 👯 I’m looking to collaborate on ...Laravel
+- 👯 I’m looking to collaborate on ...Dotnet core
 - 📫 Email Address=  **eminemetin9@gmail.com**
  
  <p><a href="https://www.linkedin.com/in/emine-metin-b1a88a115"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"  width="40" height="40" title="LinkedIn" /></a></p>
