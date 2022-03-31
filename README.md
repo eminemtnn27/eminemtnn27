@@ -26,5 +26,5 @@
   <img   alt="postgresql" width="56px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" align="left" />
     <img   alt="dotnetcore" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" align="left" />
       <img   alt="devexpress" placeholder="devexpress" width="56px" src="https://pbs.twimg.com/profile_images/3786794087/5ba269ffdac7b02148f87906604c00d4_400x400.png" align="left" />
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=eminemtnn27" alt="eminemtnn27" /> </p>
+<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=eminemtnn27" alt="eminemtnn27" /> </p>-->
 
