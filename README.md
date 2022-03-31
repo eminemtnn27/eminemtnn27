@@ -7,8 +7,8 @@
 
 <p align="center"><img  src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"  > </p>-->
 
-- 🔭 I’m currently working on ...Dotnet core
-- 🌱 I’m currently learning ... Dotnet core
+- 🔭 I’m currently working on ...dotnet core
+- 🌱 I’m currently learning ... dotnet core
 - 📫 Email Address=  **eminemetin9@gmail.com**
 
  <!--I am working to improve myself and my knowledge in these areas.-->
