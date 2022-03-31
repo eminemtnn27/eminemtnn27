@@ -3,14 +3,15 @@
 <!--
 **eminemtnn27/eminemtnn27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am computer engineer.
+<!--I am computer engineer.
 
-<!--<p align="center"><img  src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"  > </p>-->
+<p align="center"><img  src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"  > </p>-->
 
 - 🔭 I’m currently working on ...Dotnet core
 - 🌱 I’m currently learning ... Dotnet core
 - 📫 Email Address=  **eminemetin9@gmail.com**
- I am working to improve myself and my knowledge in these areas.
+
+ <!--I am working to improve myself and my knowledge in these areas.-->
  <p><a href="https://www.linkedin.com/in/emine-metin-b1a88a115"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"  width="40" height="40" title="LinkedIn" /></a></p>
  
 <!--<p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=eminemtnn27&show_icons=true&theme=gruvbox" width="600" /></p>
