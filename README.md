@@ -12,7 +12,7 @@
 - 📫 Email Address=  **eminemetin9@gmail.com**
 
  <!--I am working to improve myself and my knowledge in these areas.-->
- <p><a href="https://www.linkedin.com/in/emine-metin-b1a88a115"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"  width="40" height="40" title="LinkedIn" /></a></p>
+ <p><a href="https://www.linkedin.com/in/eminemetin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"  width="40" height="40" title="LinkedIn" /></a></p>
  
 <!--<p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=eminemtnn27&show_icons=true&theme=gruvbox" width="600" /></p>
  </p>-->
