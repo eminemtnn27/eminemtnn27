@@ -20,8 +20,8 @@ I am a **Computer Engineer** focused on developing robust applications within th
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> -->
 </p>
 
 ### 🎨 Frontend
@@ -50,8 +50,5 @@ I am a **Computer Engineer** focused on developing robust applications within th
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=eminemtnn27&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+ 
+ 
