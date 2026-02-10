@@ -5,9 +5,7 @@
 I am a **Computer Engineer** focused on developing robust applications within the **.NET Core** ecosystem and exploring modern web technologies. I am passionate about clean code and continuous self-improvement.
 
 - 🔭 **Currently working on:** .NET Core API and MVC projects.
-- 🌱 **Currently learning:** Advanced .NET architectures and Microservices.
-- 📫 **Email:** [eminemetin9@gmail.com](mailto:eminemetin9@gmail.com)
-- 🤝 **LinkedIn:** [linkedin.com/in/eminemetin](https://www.linkedin.com/in/eminemetin)
+- 🌱 **Currently learning:** Advanced .NET architectures and Microservices. 
 
 ---
 
